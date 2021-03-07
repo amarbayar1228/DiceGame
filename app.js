@@ -38,7 +38,7 @@ function initGame() {
   document.getElementById("current-1").textContent = "0";
 
   // Тоглогчдын нэрийг буцааж гаргах
-  document.getElementById("name-0").textContent = "Player 1";
+  document.getElementById("name-0").textContent = "asdasd";
   document.getElementById("name-1").textContent = "Player 2";
 
   document.querySelector(".player-0-panel").classList.remove("winner");
